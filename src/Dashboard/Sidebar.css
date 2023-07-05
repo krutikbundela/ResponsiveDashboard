@@ -1,0 +1,45 @@
+/* //Search bar color */
+.css-19z1ozs-MuiPaper-root-MuiAppBar-root {
+background-color: white !important;
+}
+
+/* Search bar color when open */
+.css-1191obr-MuiPaper-root-MuiAppBar-root {
+    background-color: white !important;
+}
+
+/* .MuiToolbar-root .MuiToolbar-gutters .MuiToolbar-regular .css-hyum1k-MuiToolbar-root{
+    background-color: white !important;
+} */
+
+/* //search icon left side */
+.css-p55zm9-MuiButtonBase-root-MuiIconButton-root {
+color: black !important;
+}
+
+/* Searchbar width */
+.css-yz9k0d-MuiInputBase-input {
+    width: 80% !important;
+}
+
+.scale{
+    border-radius: 16px !important;
+    background-color:#ffe5e9 !important;
+
+}
+ .purchase{
+    border-radius: 16px !important;
+    background-color: #d2e9ff !important;
+
+}
+ .more{
+    border-radius: 16px !important;
+    background-color: white !important;
+
+}
+
+
+@media (max-width: 600px){
+    .scale .purchase .more  {
+    display: none !important;
+}}
