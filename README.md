@@ -7,5 +7,7 @@
 # Assignment 2
   Dashboard Design
 
+  Link: https://krutikdashboard.netlify.app/
+
 https://github.com/krutikbundela/ResponsiveDashboard/assets/116296880/93aba29a-59df-44cb-8c2e-9875526cde8e
 
